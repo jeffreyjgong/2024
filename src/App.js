@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <marquee>
-        <img src="https://i.ytimg.com/vi/sCd3xu7OiHc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCIQmUV2Cd7wL8vVVDMsYojsx1hSQ"/>
+        <p>idk</p>
       </marquee>
     </div>
   );
